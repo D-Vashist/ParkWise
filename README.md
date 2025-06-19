@@ -19,8 +19,6 @@ A responsive web application built with React that helps parking lot personnel t
 
 ## 🧪 Demo
 
-Live App: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
-(Replace this link once deployed on Vercel)
 
 ---
 
@@ -36,7 +34,7 @@ Live App: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.
 
 ## 📸 Screenshots
 
-> _To be added after deployment_ (I can help generate these too)
+
 
 ---
 
